@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="COPI_15_12_16ModelStoreContainer" CdmEntityContainer="COPI_15_12_16Entities2">
+    <EntitySetMapping Name="primerName">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.primerName">
+        <MappingFragment StoreEntitySet="primerName">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="assessment" ColumnName="assessment" />
+          <ScalarProperty Name="classes" ColumnName="classes" />
+          <ScalarProperty Name="theAssessment" ColumnName="theAssessment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_ASSESSMENT">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_ASSESSMENT">
+        <MappingFragment StoreEntitySet="TBL_ASSESSMENT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="SUBJECT_ID" ColumnName="SUBJECT_ID" />
+          <ScalarProperty Name="STUDENS_ID" ColumnName="STUDENS_ID" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="ASSESSMENT" ColumnName="ASSESSMENT" />
+          <ScalarProperty Name="CLASS_NAME" ColumnName="CLASS_NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_CLASS">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_CLASS">
+        <MappingFragment StoreEntitySet="TBL_CLASS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_STUDENS">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_STUDENS">
+        <MappingFragment StoreEntitySet="TBL_STUDENS">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="PHONE_NUMBER" ColumnName="PHONE_NUMBER" />
+          <ScalarProperty Name="CLASS_NAME" ColumnName="CLASS_NAME" />
+          <ScalarProperty Name="UDATE" ColumnName="UDATE" />
+          <ScalarProperty Name="CDATE" ColumnName="CDATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_SUBJECT">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_SUBJECT">
+        <MappingFragment StoreEntitySet="TBL_SUBJECT">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_TEACHER">
+      <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_TEACHER">
+        <MappingFragment StoreEntitySet="TBL_TEACHER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="SUBJECTS" ColumnName="SUBJECTS" />
+          <ScalarProperty Name="CDATE" ColumnName="CDATE" />
+          <ScalarProperty Name="UDATE" ColumnName="UDATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

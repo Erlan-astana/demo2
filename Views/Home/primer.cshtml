@@ -1,0 +1,90 @@
+﻿@{
+    ViewBag.Title = "Қазақ тілі пәні";
+}
+
+<style>
+    .k-grid-footer, .k-grid-footer td, .k-grid-header, .k-grid-header .k-header, .k-pager-numbers .k-state-selected, .k-pager-wrap, .k-scheduler-header, .km-pane-wrapper .k-grid-header .k-header {
+        color: #ffffff;
+        background-color: #68A4D5;
+    }
+
+
+    table {
+        font-size: 12px;
+    }
+</style>
+
+ @*<script>
+    $(document).ready(function(){
+      
+
+        $("#datepicker").kendoDatePicker({
+            change: function () {
+                var value = this.value();
+                console.log(value); //value is the selected date in the datepicker
+            }
+        });
+    });
+</script>*@
+
+<h2>Қазақ тілі пәні</h2>
+ <button class="btn-refresh btn btn-primary" style="margin-left: 3px;">Жаңарту</button>
+    <input  type="text" placeholder="Іздеу" class="SearchInput" />
+<button class="btn-Search btn btn-primary">Іздеу</button>
+
+  <button class="btn-ins btn btn-primary" style="margin-left: 3px; float: right;">Қосу</button>
+ <button class="btn-update btn btn-primary" style="margin-left: 3px; float: right;">Өзгерту</button>
+  <button class="btn-del btn btn-primary" style="margin-left: 3px; float: right;">Жою</button>
+<div id="div-grid" style="height: calc(100%-40px); width: 70%;">
+</div>
+ <div class="hide">
+    <div class="div-instruments-window">
+        <table class="table">
+
+            <tr>
+                <td>Аты</td>
+                <td>
+                    <input type="text" class="inp-name k-textbox" placeholder="толтыр" style="width: 300px; border: 1px solid lightblue;" /></td>
+            </tr>
+            <tr>
+                <td>Тегі</td>
+                <td>
+                    <input type="text" class="inp-surname k-textbox" placeholder="толтыр" style="width: 300px; border: 1px solid lightblue;" />
+                  
+                </td>
+            </tr>
+           <tr>
+                <td>Бағасы</td>
+                <td>
+                    <input type="number" class="inp-assessment k-textbox" placeholder="толтыр" style="border: 1px solid lightblue;" />
+                  
+                </td>
+            </tr>
+            
+       <tr>
+            <td>Уақыт </td>
+            <td>
+                <input type="text" class="inp-theAssessment k-textbox" id="datePicker"  placeholder="толтыр" style="border: 1px solid lightblue;"/>
+            </td>
+        </tr>
+            <tr>
+                <td>Класс</td>
+                <td>
+                    <input type="text" class="inp-classes k-textbox" placeholder="толтыр" style="width: 300px; border: 1px solid lightblue;" /></td>
+            </tr>           
+           
+          
+            <tr>
+                <td></td>
+                <td>
+                    <button class="btn-close btn btn-primary" style="float: right; margin-left: 5px;">Жабу</button>
+                    <button class="btn-save btn btn-primary" style="float: right;">Сақтау</button>
+
+                </td>
+            </tr>
+        </table>
+     
+    </div>
+</div>
+
+<script src="~/Scripts/controller/primer.js"></script>

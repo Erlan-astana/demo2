@@ -1,0 +1,565 @@
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\EntityFramework.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+d:\my documents\Visual Studio 2012\Projects\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+D:\Проекты\Новая папка\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+D:\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+D:\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+C:\Users\Aibek\Desktop\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\schoolDbMvc.pdb
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Antlr3.Runtime.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Optimization.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebGrease.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\EntityFramework.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Newtonsoft.Json.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Net.Http.Formatting.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Helpers.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.WebHost.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Mvc.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Razor.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Deployment.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.WebPages.Razor.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.Data.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\WebMatrix.WebData.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.AspNet.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.Core.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OAuth.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Web.Http.OData.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.Edm.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\Microsoft.Data.OData.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\System.Spatial.xml
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\EntityFramework.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Helpers.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Mvc.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Optimization.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Razor.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.Data.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\WebMatrix.WebData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Web.Http.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\de\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\es\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\fr\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\it\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ja\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ko\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\ru\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hans\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\bin\zh-Hant\System.Spatial.resources.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.csprojResolveAssemblyReference.cache
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.dll
+D:\proekti\15_12_16\schoolDbMvc\schoolDbMvc\obj\Debug\schoolDbMvc.pdb

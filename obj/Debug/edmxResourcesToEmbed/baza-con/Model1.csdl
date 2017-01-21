@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COPI_15_12_16Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="COPI_15_12_16Entities2" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="primerName" EntityType="COPI_15_12_16Model.primerName" />
+    <EntitySet Name="TBL_ASSESSMENT" EntityType="COPI_15_12_16Model.TBL_ASSESSMENT" />
+    <EntitySet Name="TBL_CLASS" EntityType="COPI_15_12_16Model.TBL_CLASS" />
+    <EntitySet Name="TBL_STUDENS" EntityType="COPI_15_12_16Model.TBL_STUDENS" />
+    <EntitySet Name="TBL_SUBJECT" EntityType="COPI_15_12_16Model.TBL_SUBJECT" />
+    <EntitySet Name="TBL_TEACHER" EntityType="COPI_15_12_16Model.TBL_TEACHER" />
+  </EntityContainer>
+  <EntityType Name="primerName">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="surname" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="assessment" Type="Int32" />
+    <Property Name="classes" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="theAssessment" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_ASSESSMENT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="SUBJECT_ID" Type="Int32" Nullable="false" />
+    <Property Name="STUDENS_ID" Type="Int32" Nullable="false" />
+    <Property Name="DATE" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ASSESSMENT" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CLASS_NAME" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_CLASS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_STUDENS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="LOGIN" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PASSWORD" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PHONE_NUMBER" Type="Int32" />
+    <Property Name="CLASS_NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="UDATE" Type="DateTime" Precision="3" />
+    <Property Name="CDATE" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="TBL_SUBJECT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_TEACHER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="LOGIN" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="PASSWORD" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SUBJECTS" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="CDATE" Type="DateTime" Precision="3" />
+    <Property Name="UDATE" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

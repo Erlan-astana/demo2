@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Subject_Class";
+}
+
+<h2>Пән және сынып қосу</h2>
+
+<style>
+    .k-grid-footer, .k-grid-footer td, .k-grid-header, .k-grid-header .k-header, .k-pager-numbers .k-state-selected, .k-pager-wrap, .k-scheduler-header, .km-pane-wrapper .k-grid-header .k-header {
+        color: #ffffff;
+        background-color: #68A4D5;
+    }
+
+
+    table {
+        font-size: 12px;
+    }
+
+    
+</style>
+
+ <button class="btn_refresh_sub btn btn-primary" style="margin-left: 3px;">Пәндер жаңарту </button>     
+  <button class="btn_ins_sub btn btn-primary" style="margin-left: 3px; float: left;">Пән Қосу</button>
+  <button class="btn_del_sub btn btn-primary" style="margin-left: 3px; float: left;">Пән Жою</button>
+
+ <button class="btn_refresh_cl btn btn-primary" style="margin-right: 3px; float: right;">Сыныптар жаңарту </button>     
+  <button class="btn_ins_cl btn btn-primary" style="margin-right: 3px; float: right;">Сынып қосу</button>
+  <button class="btn_del_cl btn btn-primary" style="margin-right: 3px; float: right;">Сынып жою</button>
+<div id="div_grid_subject" style="height: calc(100%-30px); width: 40%;"></div>
+    <div id="div_grid_class" style="height: calc(100%-30px) ; position: absolute; bottom: 0px; right: 15px; width: 40%;"></div>
+ <div class="hide"> 
+
+       <div class="div_subject_window">
+        <table class="table">              
+           <tr>
+                <td>Жаңа пән аты</td>
+                <td>
+                    <input type="text" class="INP_NEW_SUBJECT k-textbox" placeholder="пән аты" style="border: 1px solid lightblue;" />
+                  
+                </td>
+            </tr>                
+          
+            <tr>
+                <td></td>
+                <td>
+                    <button class="btn_close_sub btn btn-primary" style="float: right; margin-left: 5px;">Жабу</button>
+                    <button class="btn_save_sub btn btn-primary" style="float: right;">Сақтау</button>
+
+                </td>
+            </tr>
+        </table>
+     
+    </div>
+</div>
+
+<div class="hide"> 
+
+       <div class="div_class_window">
+        <table class="table">       
+                 <tr>
+                <td>Жаңа сынып аты</td>
+                <td>
+                    <input type="text" class="INP_NEW_CLASS k-textbox" placeholder="сынып аты" style="border: 1px solid lightblue;" />
+                  
+                </td>
+            </tr>                     
+            <tr>
+                <td></td>
+                <td>
+                    <button class="btn_close_cl btn btn-primary" style="float: right; margin-left: 5px;">Жабу</button>
+                    <button class="btn_save_cl btn btn-primary" style="float: right;">Сақтау</button>
+
+                </td>
+            </tr>
+        </table>
+     
+    </div>
+</div>
+
+<script src="~/Scripts/controller/Subject_Class.js"></script>
+

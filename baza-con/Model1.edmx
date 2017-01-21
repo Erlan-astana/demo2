@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="COPI_15_12_16Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="COPI_15_12_16ModelStoreContainer">
+          <EntitySet Name="primerName" EntityType="COPI_15_12_16Model.Store.primerName" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TBL_ASSESSMENT" EntityType="COPI_15_12_16Model.Store.TBL_ASSESSMENT" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TBL_CLASS" EntityType="COPI_15_12_16Model.Store.TBL_CLASS" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TBL_STUDENS" EntityType="COPI_15_12_16Model.Store.TBL_STUDENS" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TBL_SUBJECT" EntityType="COPI_15_12_16Model.Store.TBL_SUBJECT" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TBL_TEACHER" EntityType="COPI_15_12_16Model.Store.TBL_TEACHER" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="primerName">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="surname" Type="nvarchar" MaxLength="50" />
+          <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="assessment" Type="int" />
+          <Property Name="classes" Type="nvarchar" MaxLength="50" />
+          <Property Name="theAssessment" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TBL_ASSESSMENT">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="SUBJECT_ID" Type="int" Nullable="false" />
+          <Property Name="STUDENS_ID" Type="int" Nullable="false" />
+          <Property Name="DATE" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="ASSESSMENT" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CLASS_NAME" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TBL_CLASS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TBL_STUDENS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FIO" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="LOGIN" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="PASSWORD" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="PHONE_NUMBER" Type="int" />
+          <Property Name="CLASS_NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="UDATE" Type="datetime" />
+          <Property Name="CDATE" Type="datetime" />
+        </EntityType>
+        <EntityType Name="TBL_SUBJECT">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TBL_TEACHER">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FIO" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="LOGIN" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="PASSWORD" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="SUBJECTS" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="CDATE" Type="datetime" />
+          <Property Name="UDATE" Type="datetime" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="COPI_15_12_16Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="COPI_15_12_16Entities2" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="primerName" EntityType="COPI_15_12_16Model.primerName" />
+          <EntitySet Name="TBL_ASSESSMENT" EntityType="COPI_15_12_16Model.TBL_ASSESSMENT" />
+          <EntitySet Name="TBL_CLASS" EntityType="COPI_15_12_16Model.TBL_CLASS" />
+          <EntitySet Name="TBL_STUDENS" EntityType="COPI_15_12_16Model.TBL_STUDENS" />
+          <EntitySet Name="TBL_SUBJECT" EntityType="COPI_15_12_16Model.TBL_SUBJECT" />
+          <EntitySet Name="TBL_TEACHER" EntityType="COPI_15_12_16Model.TBL_TEACHER" />
+        </EntityContainer>
+        <EntityType Name="primerName">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="surname" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="assessment" Type="Int32" />
+          <Property Name="classes" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="theAssessment" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TBL_ASSESSMENT">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="SUBJECT_ID" Type="Int32" Nullable="false" />
+          <Property Name="STUDENS_ID" Type="Int32" Nullable="false" />
+          <Property Name="DATE" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="ASSESSMENT" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CLASS_NAME" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TBL_CLASS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TBL_STUDENS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="FIO" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="LOGIN" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="PASSWORD" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="PHONE_NUMBER" Type="Int32" />
+          <Property Name="CLASS_NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="UDATE" Type="DateTime" Precision="3" />
+          <Property Name="CDATE" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="TBL_SUBJECT">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="NAME" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TBL_TEACHER">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="FIO" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="LOGIN" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="PASSWORD" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="SUBJECTS" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="CDATE" Type="DateTime" Precision="3" />
+          <Property Name="UDATE" Type="DateTime" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="COPI_15_12_16ModelStoreContainer" CdmEntityContainer="COPI_15_12_16Entities2">
+          <EntitySetMapping Name="primerName">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.primerName">
+              <MappingFragment StoreEntitySet="primerName">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="surname" ColumnName="surname" />
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="assessment" ColumnName="assessment" />
+                <ScalarProperty Name="classes" ColumnName="classes" />
+                <ScalarProperty Name="theAssessment" ColumnName="theAssessment" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TBL_ASSESSMENT">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_ASSESSMENT">
+              <MappingFragment StoreEntitySet="TBL_ASSESSMENT">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="SUBJECT_ID" ColumnName="SUBJECT_ID" />
+                <ScalarProperty Name="STUDENS_ID" ColumnName="STUDENS_ID" />
+                <ScalarProperty Name="DATE" ColumnName="DATE" />
+                <ScalarProperty Name="ASSESSMENT" ColumnName="ASSESSMENT" />
+                <ScalarProperty Name="CLASS_NAME" ColumnName="CLASS_NAME" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TBL_CLASS">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_CLASS">
+              <MappingFragment StoreEntitySet="TBL_CLASS">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NAME" ColumnName="NAME" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TBL_STUDENS">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_STUDENS">
+              <MappingFragment StoreEntitySet="TBL_STUDENS">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="FIO" ColumnName="FIO" />
+                <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+                <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+                <ScalarProperty Name="PHONE_NUMBER" ColumnName="PHONE_NUMBER" />
+                <ScalarProperty Name="CLASS_NAME" ColumnName="CLASS_NAME" />
+                <ScalarProperty Name="UDATE" ColumnName="UDATE" />
+                <ScalarProperty Name="CDATE" ColumnName="CDATE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TBL_SUBJECT">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_SUBJECT">
+              <MappingFragment StoreEntitySet="TBL_SUBJECT">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="NAME" ColumnName="NAME" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TBL_TEACHER">
+            <EntityTypeMapping TypeName="COPI_15_12_16Model.TBL_TEACHER">
+              <MappingFragment StoreEntitySet="TBL_TEACHER">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="FIO" ColumnName="FIO" />
+                <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+                <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+                <ScalarProperty Name="SUBJECTS" ColumnName="SUBJECTS" />
+                <ScalarProperty Name="CDATE" ColumnName="CDATE" />
+                <ScalarProperty Name="UDATE" ColumnName="UDATE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COPI_15_12_16Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="COPI_15_12_16ModelStoreContainer">
+    <EntitySet Name="primerName" EntityType="COPI_15_12_16Model.Store.primerName" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TBL_ASSESSMENT" EntityType="COPI_15_12_16Model.Store.TBL_ASSESSMENT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TBL_CLASS" EntityType="COPI_15_12_16Model.Store.TBL_CLASS" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TBL_STUDENS" EntityType="COPI_15_12_16Model.Store.TBL_STUDENS" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TBL_SUBJECT" EntityType="COPI_15_12_16Model.Store.TBL_SUBJECT" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TBL_TEACHER" EntityType="COPI_15_12_16Model.Store.TBL_TEACHER" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="primerName">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="surname" Type="nvarchar" MaxLength="50" />
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="assessment" Type="int" />
+    <Property Name="classes" Type="nvarchar" MaxLength="50" />
+    <Property Name="theAssessment" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBL_ASSESSMENT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SUBJECT_ID" Type="int" Nullable="false" />
+    <Property Name="STUDENS_ID" Type="int" Nullable="false" />
+    <Property Name="DATE" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="ASSESSMENT" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CLASS_NAME" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBL_CLASS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBL_STUDENS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LOGIN" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PASSWORD" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PHONE_NUMBER" Type="int" />
+    <Property Name="CLASS_NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="UDATE" Type="datetime" />
+    <Property Name="CDATE" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TBL_SUBJECT">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NAME" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TBL_TEACHER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FIO" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LOGIN" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PASSWORD" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SUBJECTS" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="CDATE" Type="datetime" />
+    <Property Name="UDATE" Type="datetime" />
+  </EntityType>
+</Schema>
